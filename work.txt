@@ -1,1 +1,2 @@
 i am learning github
+tested the connectivity of GITHUB with jenkins
